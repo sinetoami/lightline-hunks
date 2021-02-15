@@ -1,4 +1,5 @@
 # lightline-hunks
+## :warning: this repository was transferred to another owner: [sineto/lightline-hunks](https://github.com/sineto/lightline-hunks).
 This plugin provides git hunks and git branch for [lightline](https://github.com/itchyny/lightline.vim).
 
 ## Requirements
